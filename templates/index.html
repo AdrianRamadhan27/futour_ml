@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tourism Spots in Indonesia</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        .place {
+            border: 1px solid #ddd;
+            margin-bottom: 20px;
+            padding: 15px;
+            border-radius: 8px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        }
+        .place img {
+            width: 100%;
+            max-width: 300px;
+            border-radius: 8px;
+        }
+        .place h2 {
+            margin: 0 0 10px;
+        }
+        .place .rating {
+            font-weight: bold;
+            color: #555;
+        }
+    </style>
+</head>
+<body>
+    <h1>Tourism Spots in Indonesia</h1>
+    <div id="places-container"></div>
+
+    <script>
+        // Path to your GeoJSON file
+        const geojsonUrl = 'http://127.0.0.1:5000/json/osm_data_with_ratings.geojson';
+
+        // Fetch the GeoJSON data
+        fetch(geojsonUrl)
+            .then(response => response.json())
+            .then(data => {
+                const container = document.getElementById('places-container');
+                const features = data.features;
+
+                // Iterate through each place
+                features.forEach(feature => {
+                    const { name, rating, images } = feature.properties;
+
+                    // Create a card for the place
+                    const placeDiv = document.createElement('div');
+                    placeDiv.className = 'place';
+
+                    // Add place details
+                    placeDiv.innerHTML = `
+                        <h2>${name || 'Unnamed Place'}</h2>
+                        <p class="rating">Rating: ${rating || 'No rating available'}</p>
+                        <div class="images">
+                            ${images && images.length > 0 
+                                ? images.map(url => `<img src="${url}" alt="${name || 'Image'}">`).join('')
+                                : '<p>No images available</p>'
+                            }
+                        </div>
+                    `;
+
+                    // Append to the container
+                    container.appendChild(placeDiv);
+                });
+            })
+            .catch(error => console.error('Error loading GeoJSON:', error));
+    </script>
+</body>
+</html>
