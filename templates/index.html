@@ -36,7 +36,7 @@
 
     <script>
         // Path to your GeoJSON file
-        const geojsonUrl = 'http://127.0.0.1:5000/json/osm_data_with_ratings.geojson';
+        const geojsonUrl = 'http://127.0.0.1:5000/json/osm_data_with_images.geojson';
 
         // Fetch the GeoJSON data
         fetch(geojsonUrl)
@@ -47,7 +47,7 @@
 
                 // Iterate through each place
                 features.forEach(feature => {
-                    const { name, rating, images } = feature.properties;
+                    const { name, images } = feature.properties;
 
                     // Create a card for the place
                     const placeDiv = document.createElement('div');
@@ -56,7 +56,6 @@
                     // Add place details
                     placeDiv.innerHTML = `
                         <h2>${name || 'Unnamed Place'}</h2>
-                        <p class="rating">Rating: ${rating || 'No rating available'}</p>
                         <div class="images">
                             ${images && images.length > 0 
                                 ? images.map(url => `<img src="${url}" alt="${name || 'Image'}">`).join('')
