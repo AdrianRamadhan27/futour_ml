@@ -1,17 +1,29 @@
 # FuTour ML
 Machine learning of FuTour application.
 
+
 ## Code Descriptions
+0. "json/osm_data.json"
+    The data was pulled from OpenStreetMap API (OSM API) as json file, which doesn't necessarily has the "genres" tag.
+    However the json file itself contains the key "tourism" which represents the type of tourism such as village, attraction, and others.
+    This will be used as the placeholder for the time being as this app is still a prototype.
+
 1. geofetch.py
     To fetch images from Foursquare API and create json file that contains it.
     In this case, since the "osm_data_with_images.json" was already created, there's no need for geofecth to be ran again.
+
 2. server.py
     To run server that launches web application from "templates/index.html".
     The web app is used to show the result of "osm_data_with_images.json" only.
+    As for the images itselves, as it was pulled from Foursquare API, some might not be related to the places provided.
+    Just think it as a placeholder images (prototype).
+
 3. collaborative_filtering.py
     Collaborative filtering model for user rating data.
+
 4. search_recommendation.py
     Search based recommendation model that requires manual querying (not yet NLP implemented).
+
 
 ## Running Apps
 1. Installing dependencies (Note: you don't need all the dependencies, only the key ones like sklearn, tensorflow, pandas, and flask to run the web app)
