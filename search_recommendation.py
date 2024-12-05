@@ -4,7 +4,7 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 
 # Load the dataset
-data = pd.read_csv('tourism_spots.csv')
+data = pd.read_csv('./tourism_spots.csv')
 
 # Combine relevant fields into one text column
 data['combined_text'] = data['title'] + " " + data['description'] + " " + data['genre']
@@ -69,11 +69,16 @@ def search_recommendations_with_rating(query, top_n=5, rating_weight=0.3):
     recommendations['weighted_score'] = weighted_score[top_indices]
     return recommendations[['title', 'description', 'genre', 'rating', 'similarity', 'weighted_score']]
 
-# Example usage
-if __name__ == "__main__":
-    query = input("Enter your search query: ")
-    print("\nTop recommendations based on similarity:")
-    print(search_recommendations(query, top_n=5))
+
+query = "saya pengen ke tempat yang ada air"
+
+# # Example usage
+# if __name__ == "__main__":
+#     query = input("Enter your search query: ")
+#     print("\nTop recommendations based on similarity:")
+#     print(search_recommendations(query, top_n=5))
     
-    print("\nTop recommendations with similarity and rating:")
-    print(search_recommendations_with_rating(query, top_n=5, rating_weight=0.4))
+#     print("\nTop recommendations with similarity and rating:")
+#     print(search_recommendations_with_rating(query, top_n=5, rating_weight=0.4))
+
+print(search_recommendations_with_rating(query, top_n=5, rating_weight=0.4))
