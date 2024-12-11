@@ -30,3 +30,12 @@ class SearchRecommendations:
         recommendations = self.display_data.iloc[top_indices]
         recommendations['similarity'] = similarity_scores[top_indices]
         return recommendations[['name', 'description', 'genre', 'rating', 'similarity']]
+    
+    def return_genre(self, query):
+        query_vector = self.vectorizer.transform([query])
+        similarity_scores = cosine_similarity(query_vector, self.tfidf_matrix).flatten()
+        top_index = similarity_scores.argmax()  # Get the index of the highest similarity score
+        
+        # Return only the genre of the top recommendation
+        top_genre = self.display_data.iloc[top_index]['genre']
+        return top_genre
