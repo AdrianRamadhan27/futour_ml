@@ -45,7 +45,7 @@
     },
     {
         "name": "Leces",
-        "genre": "Scenic",
+        "genre": "Natural Landmark",
         "images": [
             "https://images.unsplash.com/photo-1535186830872-2c5fe5cc62fb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NzgyNDJ8MHwxfHNlYXJjaHwxfHxhdHRyYWN0aW9ufGVufDB8fHx8MTczMjM4NDk2Mnww&ixlib=rb-4.0.3&q=80&w=400",
             "https://images.unsplash.com/photo-1416397202228-6b2eb5b3bb26?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NzgyNDJ8MHwxfHNlYXJjaHwyfHxhdHRyYWN0aW9ufGVufDB8fHx8MTczMjM4NDk2Mnww&ixlib=rb-4.0.3&q=80&w=400",
@@ -56,7 +56,7 @@
     },
     {
         "name": "Art & Craft Market",
-        "genre": "Scenic",
+        "genre": "Art",
         "images": [
             "https://images.unsplash.com/photo-1629218091978-f70a20a43aab?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NzgyNDJ8MHwxfHNlYXJjaHwxfHxBcnQlMjAlMjYlMjBDcmFmdCUyME1hcmtldHxlbnwwfHx8fDE3MzIzODQ5NjR8MA&ixlib=rb-4.0.3&q=80&w=400",
             "https://images.unsplash.com/photo-1629140877328-77e5a10019e1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NzgyNDJ8MHwxfHNlYXJjaHwyfHxBcnQlMjAlMjYlMjBDcmFmdCUyME1hcmtldHxlbnwwfHx8fDE3MzIzODQ5NjV8MA&ixlib=rb-4.0.3&q=80&w=400",
@@ -88,7 +88,7 @@
     },
     {
         "name": "Sade Sasak Village",
-        "genre": "Scenic",
+        "genre": "Art",
         "images": [
             "https://images.unsplash.com/photo-1614636006346-d3fb453b9901?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NzgyNDJ8MHwxfHNlYXJjaHwxfHxTYWRlJTIwU2FzYWslMjBWaWxsYWdlfGVufDB8fHx8MTczMjM4NDk2Nnww&ixlib=rb-4.0.3&q=80&w=400",
             "https://images.unsplash.com/photo-1560205406-182fdf724efa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NzgyNDJ8MHwxfHNlYXJjaHwyfHxTYWRlJTIwU2FzYWslMjBWaWxsYWdlfGVufDB8fHx8MTczMjM4NDk2Nnww&ixlib=rb-4.0.3&q=80&w=400",
@@ -141,7 +141,7 @@
     },
     {
         "name": "Batam Cable Ski",
-        "genre": "Scenic",
+        "genre": "Adventure",
         "images": [
             "https://images.unsplash.com/photo-1565992441121-4367c2967103?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NzgyNDJ8MHwxfHNlYXJjaHwxfHxCYXRhbSUyMENhYmxlJTIwU2tpfGVufDB8fHx8MTczMjI5Mjk1OHww&ixlib=rb-4.0.3&q=80&w=400",
             "https://images.unsplash.com/photo-1622107906469-632c870f19e9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NzgyNDJ8MHwxfHNlYXJjaHwyfHxCYXRhbSUyMENhYmxlJTIwU2tpfGVufDB8fHx8MTczMjI5Mjk1OHww&ixlib=rb-4.0.3&q=80&w=400",
@@ -152,7 +152,7 @@
     },
     {
         "name": "Dungus Iwul Nature reserve",
-        "genre": "Scenic",
+        "genre": "Natural Landmark",
         "images": [
             "https://images.unsplash.com/photo-1439853949127-fa647821eba0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NzgyNDJ8MHwxfHNlYXJjaHwxfHxEdW5ndXMlMjBJd3VsJTIwTmF0dXJlJTIwcmVzZXJ2ZXxlbnwwfHx8fDE3MzIzODQ5Njl8MA&ixlib=rb-4.0.3&q=80&w=400",
             "https://images.unsplash.com/photo-1472396961693-142e6e269027?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NzgyNDJ8MHwxfHNlYXJjaHwyfHxEdW5ndXMlMjBJd3VsJTIwTmF0dXJlJTIwcmVzZXJ2ZXxlbnwwfHx8fDE3MzIzODQ5Njl8MA&ixlib=rb-4.0.3&q=80&w=400",
@@ -260,7 +260,7 @@
     },
     {
         "name": "War Memorial",
-        "genre": "Scenic",
+        "genre": "Monument",
         "images": [
             "https://images.unsplash.com/photo-1531911847154-f25129c1fb8a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NzgyNDJ8MHwxfHNlYXJjaHwxfHxXYXIlMjBNZW1vcmlhbHxlbnwwfHx8fDE3MzIzODQ5NzV8MA&ixlib=rb-4.0.3&q=80&w=400",
             "https://images.unsplash.com/photo-1720525056663-e55be8caaa4c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NzgyNDJ8MHwxfHNlYXJjaHwyfHxXYXIlMjBNZW1vcmlhbHxlbnwwfHx8fDE3MzIzODQ5NzV8MA&ixlib=rb-4.0.3&q=80&w=400",
@@ -271,7 +271,7 @@
     },
     {
         "name": "Weaving Workshop",
-        "genre": "Scenic",
+        "genre": "Art",
         "images": [
             "https://images.unsplash.com/photo-1702574145861-bcb8227a31bf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NzgyNDJ8MHwxfHNlYXJjaHwxfHxXZWF2aW5nJTIwV29ya3Nob3B8ZW58MHx8fHwxNzMyNDA3NTA2fDA&ixlib=rb-4.0.3&q=80&w=400",
             "https://images.unsplash.com/photo-1695898341950-6b78780c1458?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NzgyNDJ8MHwxfHNlYXJjaHwyfHxXZWF2aW5nJTIwV29ya3Nob3B8ZW58MHx8fHwxNzMyNDA3NTA2fDA&ixlib=rb-4.0.3&q=80&w=400",
@@ -738,7 +738,7 @@
     },
     {
         "name": "Start Gunung Mutis Track",
-        "genre": "Scenic",
+        "genre": "Art",
         "images": [
             "https://images.unsplash.com/photo-1506316940527-4d1c138978a0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NzgyNDJ8MHwxfHNlYXJjaHwxfHxTdGFydCUyMEd1bnVuZyUyME11dGlzJTIwVHJhY2t8ZW58MHx8fHwxNzMyNDA3NTE4fDA&ixlib=rb-4.0.3&q=80&w=400",
             "https://images.unsplash.com/photo-1528193599994-e9d6a8a1acb5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NzgyNDJ8MHwxfHNlYXJjaHwyfHxTdGFydCUyMEd1bnVuZyUyME11dGlzJTIwVHJhY2t8ZW58MHx8fHwxNzMyNDA3NTE4fDA&ixlib=rb-4.0.3&q=80&w=400",
@@ -857,7 +857,7 @@
     },
     {
         "name": "Marcopolo Water Adventure",
-        "genre": "Scenic",
+        "genre": "Adventure",
         "images": [
             "https://images.unsplash.com/photo-1590053404184-ce4ee04f3d58?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NzgyNDJ8MHwxfHNlYXJjaHwxfHxNYXJjb3BvbG8lMjBXYXRlciUyMEFkdmVudHVyZXxlbnwwfHx8fDE3MzI0MDc1MjN8MA&ixlib=rb-4.0.3&q=80&w=400",
             "https://images.unsplash.com/photo-1483004406427-6acb078d1f2d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NzgyNDJ8MHwxfHNlYXJjaHwyfHxNYXJjb3BvbG8lMjBXYXRlciUyMEFkdmVudHVyZXxlbnwwfHx8fDE3MzI0MDc1MjN8MA&ixlib=rb-4.0.3&q=80&w=400",
@@ -1348,7 +1348,7 @@
     },
     {
         "name": "Underwater Shrine",
-        "genre": "Scenic",
+        "genre": "Religious Site",
         "images": [
             "https://images.unsplash.com/photo-1535186830872-2c5fe5cc62fb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NzgyNDJ8MHwxfHNlYXJjaHwxfHxhdHRyYWN0aW9ufGVufDB8fHx8MTczMjM4NDk2Mnww&ixlib=rb-4.0.3&q=80&w=400",
             "https://images.unsplash.com/photo-1416397202228-6b2eb5b3bb26?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NzgyNDJ8MHwxfHNlYXJjaHwyfHxhdHRyYWN0aW9ufGVufDB8fHx8MTczMjM4NDk2Mnww&ixlib=rb-4.0.3&q=80&w=400",
@@ -1568,7 +1568,7 @@
     },
     {
         "name": "Artist Village",
-        "genre": "Scenic",
+        "genre": "Art",
         "images": [
             "https://images.unsplash.com/photo-1535186830872-2c5fe5cc62fb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NzgyNDJ8MHwxfHNlYXJjaHwxfHxhdHRyYWN0aW9ufGVufDB8fHx8MTczMjM4NDk2Mnww&ixlib=rb-4.0.3&q=80&w=400",
             "https://images.unsplash.com/photo-1416397202228-6b2eb5b3bb26?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NzgyNDJ8MHwxfHNlYXJjaHwyfHxhdHRyYWN0aW9ufGVufDB8fHx8MTczMjM4NDk2Mnww&ixlib=rb-4.0.3&q=80&w=400",
@@ -1821,7 +1821,7 @@
     },
     {
         "name": "The Only One silver crafts",
-        "genre": "Scenic",
+        "genre": "Art",
         "images": [
             "https://images.unsplash.com/photo-1535186830872-2c5fe5cc62fb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NzgyNDJ8MHwxfHNlYXJjaHwxfHxhdHRyYWN0aW9ufGVufDB8fHx8MTczMjM4NDk2Mnww&ixlib=rb-4.0.3&q=80&w=400",
             "https://images.unsplash.com/photo-1416397202228-6b2eb5b3bb26?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NzgyNDJ8MHwxfHNlYXJjaHwyfHxhdHRyYWN0aW9ufGVufDB8fHx8MTczMjM4NDk2Mnww&ixlib=rb-4.0.3&q=80&w=400",
@@ -2261,7 +2261,7 @@
     },
     {
         "name": "Bakas Adventure",
-        "genre": "Scenic",
+        "genre": "Adventure",
         "images": [
             "https://images.unsplash.com/photo-1535186830872-2c5fe5cc62fb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NzgyNDJ8MHwxfHNlYXJjaHwxfHxhdHRyYWN0aW9ufGVufDB8fHx8MTczMjM4NDk2Mnww&ixlib=rb-4.0.3&q=80&w=400",
             "https://images.unsplash.com/photo-1416397202228-6b2eb5b3bb26?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NzgyNDJ8MHwxfHNlYXJjaHwyfHxhdHRyYWN0aW9ufGVufDB8fHx8MTczMjM4NDk2Mnww&ixlib=rb-4.0.3&q=80&w=400",
@@ -2514,7 +2514,7 @@
     },
     {
         "name": "Crafts, mini row boats, Traditional Snake Drums",
-        "genre": "Scenic",
+        "genre": "Art",
         "images": [
             "https://images.unsplash.com/photo-1535186830872-2c5fe5cc62fb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NzgyNDJ8MHwxfHNlYXJjaHwxfHxhdHRyYWN0aW9ufGVufDB8fHx8MTczMjM4NDk2Mnww&ixlib=rb-4.0.3&q=80&w=400",
             "https://images.unsplash.com/photo-1416397202228-6b2eb5b3bb26?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NzgyNDJ8MHwxfHNlYXJjaHwyfHxhdHRyYWN0aW9ufGVufDB8fHx8MTczMjM4NDk2Mnww&ixlib=rb-4.0.3&q=80&w=400",
@@ -2613,7 +2613,7 @@
     },
     {
         "name": "Rock mountain on the beach, giant coconut crabs here",
-        "genre": "Beach",
+        "genre": "Natural Landmark",
         "images": [
             "https://images.unsplash.com/photo-1535186830872-2c5fe5cc62fb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NzgyNDJ8MHwxfHNlYXJjaHwxfHxhdHRyYWN0aW9ufGVufDB8fHx8MTczMjM4NDk2Mnww&ixlib=rb-4.0.3&q=80&w=400",
             "https://images.unsplash.com/photo-1416397202228-6b2eb5b3bb26?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NzgyNDJ8MHwxfHNlYXJjaHwyfHxhdHRyYWN0aW9ufGVufDB8fHx8MTczMjM4NDk2Mnww&ixlib=rb-4.0.3&q=80&w=400",
@@ -3240,7 +3240,7 @@
     },
     {
         "name": "Iris Garden",
-        "genre": "Scenic",
+        "genre": "Park",
         "images": [
             "https://images.unsplash.com/photo-1622144862053-11d3ce6b0dc8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NzgyNDJ8MHwxfHNlYXJjaHwxfHxJcmlzJTIwR2FyZGVufGVufDB8fHx8MTczMjM4ODQxNXww&ixlib=rb-4.0.3&q=80&w=400",
             "https://images.unsplash.com/photo-1622144861866-d6a19f3fbdb0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NzgyNDJ8MHwxfHNlYXJjaHwyfHxJcmlzJTIwR2FyZGVufGVufDB8fHx8MTczMjM4ODQxNXww&ixlib=rb-4.0.3&q=80&w=400",
@@ -3592,7 +3592,7 @@
     },
     {
         "name": "Pantai Lombang",
-        "genre": "Beach",
+        "genre": "Other",
         "images": [
             "https://images.unsplash.com/photo-1444194751366-f16f38b94dd9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NzgyNDJ8MHwxfHNlYXJjaHwxfHxQYW50YWklMjBMb21iYW5nfGVufDB8fHx8MTczMjQxMDAxNHww&ixlib=rb-4.0.3&q=80&w=400",
             "https://images.unsplash.com/photo-1657690230087-7ad267699528?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NzgyNDJ8MHwxfHNlYXJjaHwyfHxQYW50YWklMjBMb21iYW5nfGVufDB8fHx8MTczMjQxMDAxNHww&ixlib=rb-4.0.3&q=80&w=400",
@@ -3669,7 +3669,7 @@
     },
     {
         "name": "Temple with big statue",
-        "genre": "Religious Site",
+        "genre": "Monument",
         "images": [
             "https://images.unsplash.com/photo-1584263477058-c0017f00c971?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NzgyNDJ8MHwxfHNlYXJjaHwxfHxUZW1wbGUlMjB3aXRoJTIwYmlnJTIwc3RhdHVlfGVufDB8fHx8MTczMjQxMDAxOHww&ixlib=rb-4.0.3&q=80&w=400",
             "https://images.unsplash.com/photo-1577375837944-47617314bfd9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NzgyNDJ8MHwxfHNlYXJjaHwyfHxUZW1wbGUlMjB3aXRoJTIwYmlnJTIwc3RhdHVlfGVufDB8fHx8MTczMjQxMDAxOHww&ixlib=rb-4.0.3&q=80&w=400",
@@ -3834,7 +3834,7 @@
     },
     {
         "name": "Underwater Buddha Statue Garden",
-        "genre": "Scenic",
+        "genre": "Park",
         "images": [
             "https://images.unsplash.com/photo-1501963589393-2e1552dfa94a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NzgyNDJ8MHwxfHNlYXJjaHwxfHxVbmRlcndhdGVyJTIwQnVkZGhhJTIwU3RhdHVlJTIwR2FyZGVufGVufDB8fHx8MTczMjQxMDAyN3ww&ixlib=rb-4.0.3&q=80&w=400",
             "https://images.unsplash.com/photo-1505168835026-46d08457f8a0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NzgyNDJ8MHwxfHNlYXJjaHwyfHxVbmRlcndhdGVyJTIwQnVkZGhhJTIwU3RhdHVlJTIwR2FyZGVufGVufDB8fHx8MTczMjQxMDAyN3ww&ixlib=rb-4.0.3&q=80&w=400",
@@ -4108,7 +4108,7 @@
     },
     {
         "name": "Belaraghi Starting Point",
-        "genre": "Scenic",
+        "genre": "Art",
         "images": [
             "https://images.unsplash.com/photo-1535186830872-2c5fe5cc62fb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NzgyNDJ8MHwxfHNlYXJjaHwxfHxhdHRyYWN0aW9ufGVufDB8fHx8MTczMjM4NDk2Mnww&ixlib=rb-4.0.3&q=80&w=400",
             "https://images.unsplash.com/photo-1416397202228-6b2eb5b3bb26?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NzgyNDJ8MHwxfHNlYXJjaHwyfHxhdHRyYWN0aW9ufGVufDB8fHx8MTczMjM4NDk2Mnww&ixlib=rb-4.0.3&q=80&w=400",
@@ -4339,7 +4339,7 @@
     },
     {
         "name": "Sarong handicraft village",
-        "genre": "Scenic",
+        "genre": "Art",
         "images": [
             "https://images.unsplash.com/photo-1535186830872-2c5fe5cc62fb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NzgyNDJ8MHwxfHNlYXJjaHwxfHxhdHRyYWN0aW9ufGVufDB8fHx8MTczMjM4NDk2Mnww&ixlib=rb-4.0.3&q=80&w=400",
             "https://images.unsplash.com/photo-1416397202228-6b2eb5b3bb26?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NzgyNDJ8MHwxfHNlYXJjaHwyfHxhdHRyYWN0aW9ufGVufDB8fHx8MTczMjM4NDk2Mnww&ixlib=rb-4.0.3&q=80&w=400",
@@ -5505,7 +5505,7 @@
     },
     {
         "name": "Coral Garden",
-        "genre": "Scenic",
+        "genre": "Park",
         "images": [
             "https://images.unsplash.com/photo-1535186830872-2c5fe5cc62fb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NzgyNDJ8MHwxfHNlYXJjaHwxfHxhdHRyYWN0aW9ufGVufDB8fHx8MTczMjM4NDk2Mnww&ixlib=rb-4.0.3&q=80&w=400",
             "https://images.unsplash.com/photo-1416397202228-6b2eb5b3bb26?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NzgyNDJ8MHwxfHNlYXJjaHwyfHxhdHRyYWN0aW9ufGVufDB8fHx8MTczMjM4NDk2Mnww&ixlib=rb-4.0.3&q=80&w=400",
@@ -5857,7 +5857,7 @@
     },
     {
         "name": "Karang Bayangan (Magic Mountain) Dive Site",
-        "genre": "Adventure",
+        "genre": "Natural Landmark",
         "images": [
             "https://images.unsplash.com/photo-1535186830872-2c5fe5cc62fb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NzgyNDJ8MHwxfHNlYXJjaHwxfHxhdHRyYWN0aW9ufGVufDB8fHx8MTczMjM4NDk2Mnww&ixlib=rb-4.0.3&q=80&w=400",
             "https://images.unsplash.com/photo-1416397202228-6b2eb5b3bb26?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NzgyNDJ8MHwxfHNlYXJjaHwyfHxhdHRyYWN0aW9ufGVufDB8fHx8MTczMjM4NDk2Mnww&ixlib=rb-4.0.3&q=80&w=400",
@@ -6044,7 +6044,7 @@
     },
     {
         "name": "Melissa's Garden",
-        "genre": "Scenic",
+        "genre": "Park",
         "images": [
             "https://images.unsplash.com/photo-1535186830872-2c5fe5cc62fb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NzgyNDJ8MHwxfHNlYXJjaHwxfHxhdHRyYWN0aW9ufGVufDB8fHx8MTczMjM4NDk2Mnww&ixlib=rb-4.0.3&q=80&w=400",
             "https://images.unsplash.com/photo-1416397202228-6b2eb5b3bb26?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NzgyNDJ8MHwxfHNlYXJjaHwyfHxhdHRyYWN0aW9ufGVufDB8fHx8MTczMjM4NDk2Mnww&ixlib=rb-4.0.3&q=80&w=400",
@@ -6759,7 +6759,7 @@
     },
     {
         "name": "Lokon Trail Startig Point",
-        "genre": "Scenic",
+        "genre": "Art",
         "images": [
             "https://images.unsplash.com/photo-1497005367839-6e852de72767?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NzgyNDJ8MHwxfHNlYXJjaHwxfHxMb2tvbiUyMFRyYWlsJTIwU3RhcnRpZyUyMFBvaW50fGVufDB8fHx8MTczMjQxMzYyM3ww&ixlib=rb-4.0.3&q=80&w=400",
             "https://images.unsplash.com/photo-1707007432341-3e2e1e1a894b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NzgyNDJ8MHwxfHNlYXJjaHwyfHxMb2tvbiUyMFRyYWlsJTIwU3RhcnRpZyUyMFBvaW50fGVufDB8fHx8MTczMjQxMzYyM3ww&ixlib=rb-4.0.3&q=80&w=400",
@@ -8496,7 +8496,7 @@
     },
     {
         "name": "Kids Zoo",
-        "genre": "Wildlife",
+        "genre": "Other",
         "images": [
             "https://images.unsplash.com/photo-1535186830872-2c5fe5cc62fb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NzgyNDJ8MHwxfHNlYXJjaHwxfHxhdHRyYWN0aW9ufGVufDB8fHx8MTczMjM4NDk2Mnww&ixlib=rb-4.0.3&q=80&w=400",
             "https://images.unsplash.com/photo-1416397202228-6b2eb5b3bb26?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NzgyNDJ8MHwxfHNlYXJjaHwyfHxhdHRyYWN0aW9ufGVufDB8fHx8MTczMjM4NDk2Mnww&ixlib=rb-4.0.3&q=80&w=400",
@@ -9002,7 +9002,7 @@
     },
     {
         "name": "Landmark Pantai Boom",
-        "genre": "Scenic",
+        "genre": "Natural Landmark",
         "images": [
             "https://images.unsplash.com/photo-1535186830872-2c5fe5cc62fb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NzgyNDJ8MHwxfHNlYXJjaHwxfHxhdHRyYWN0aW9ufGVufDB8fHx8MTczMjM4NDk2Mnww&ixlib=rb-4.0.3&q=80&w=400",
             "https://images.unsplash.com/photo-1416397202228-6b2eb5b3bb26?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NzgyNDJ8MHwxfHNlYXJjaHwyfHxhdHRyYWN0aW9ufGVufDB8fHx8MTczMjM4NDk2Mnww&ixlib=rb-4.0.3&q=80&w=400",
@@ -9937,7 +9937,7 @@
     },
     {
         "name": "Start 1 hour trekking through rice field",
-        "genre": "Scenic",
+        "genre": "Art",
         "images": [
             "https://images.unsplash.com/photo-1535186830872-2c5fe5cc62fb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NzgyNDJ8MHwxfHNlYXJjaHwxfHxhdHRyYWN0aW9ufGVufDB8fHx8MTczMjM4NDk2Mnww&ixlib=rb-4.0.3&q=80&w=400",
             "https://images.unsplash.com/photo-1416397202228-6b2eb5b3bb26?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NzgyNDJ8MHwxfHNlYXJjaHwyfHxhdHRyYWN0aW9ufGVufDB8fHx8MTczMjM4NDk2Mnww&ixlib=rb-4.0.3&q=80&w=400",
@@ -9981,7 +9981,7 @@
     },
     {
         "name": "Water sport",
-        "genre": "Scenic",
+        "genre": "Adventure",
         "images": [
             "https://images.unsplash.com/photo-1535186830872-2c5fe5cc62fb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NzgyNDJ8MHwxfHNlYXJjaHwxfHxhdHRyYWN0aW9ufGVufDB8fHx8MTczMjM4NDk2Mnww&ixlib=rb-4.0.3&q=80&w=400",
             "https://images.unsplash.com/photo-1416397202228-6b2eb5b3bb26?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NzgyNDJ8MHwxfHNlYXJjaHwyfHxhdHRyYWN0aW9ufGVufDB8fHx8MTczMjM4NDk2Mnww&ixlib=rb-4.0.3&q=80&w=400",
@@ -9992,7 +9992,7 @@
     },
     {
         "name": "Floating garden",
-        "genre": "Scenic",
+        "genre": "Park",
         "images": [
             "https://images.unsplash.com/photo-1535186830872-2c5fe5cc62fb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NzgyNDJ8MHwxfHNlYXJjaHwxfHxhdHRyYWN0aW9ufGVufDB8fHx8MTczMjM4NDk2Mnww&ixlib=rb-4.0.3&q=80&w=400",
             "https://images.unsplash.com/photo-1416397202228-6b2eb5b3bb26?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NzgyNDJ8MHwxfHNlYXJjaHwyfHxhdHRyYWN0aW9ufGVufDB8fHx8MTczMjM4NDk2Mnww&ixlib=rb-4.0.3&q=80&w=400",
@@ -10091,7 +10091,7 @@
     },
     {
         "name": "The Blooms Garden",
-        "genre": "Scenic",
+        "genre": "Park",
         "images": [
             "https://images.unsplash.com/photo-1535186830872-2c5fe5cc62fb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NzgyNDJ8MHwxfHNlYXJjaHwxfHxhdHRyYWN0aW9ufGVufDB8fHx8MTczMjM4NDk2Mnww&ixlib=rb-4.0.3&q=80&w=400",
             "https://images.unsplash.com/photo-1416397202228-6b2eb5b3bb26?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NzgyNDJ8MHwxfHNlYXJjaHwyfHxhdHRyYWN0aW9ufGVufDB8fHx8MTczMjM4NDk2Mnww&ixlib=rb-4.0.3&q=80&w=400",
@@ -10762,7 +10762,7 @@
     },
     {
         "name": "Art market street",
-        "genre": "Scenic",
+        "genre": "Art",
         "images": [
             "https://images.unsplash.com/photo-1535186830872-2c5fe5cc62fb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NzgyNDJ8MHwxfHNlYXJjaHwxfHxhdHRyYWN0aW9ufGVufDB8fHx8MTczMjM4NDk2Mnww&ixlib=rb-4.0.3&q=80&w=400",
             "https://images.unsplash.com/photo-1416397202228-6b2eb5b3bb26?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NzgyNDJ8MHwxfHNlYXJjaHwyfHxhdHRyYWN0aW9ufGVufDB8fHx8MTczMjM4NDk2Mnww&ixlib=rb-4.0.3&q=80&w=400",
@@ -11070,7 +11070,7 @@
     },
     {
         "name": "PTDI Factory tour Bandros start",
-        "genre": "Scenic",
+        "genre": "Art",
         "images": [
             "https://images.unsplash.com/photo-1535186830872-2c5fe5cc62fb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NzgyNDJ8MHwxfHNlYXJjaHwxfHxhdHRyYWN0aW9ufGVufDB8fHx8MTczMjM4NDk2Mnww&ixlib=rb-4.0.3&q=80&w=400",
             "https://images.unsplash.com/photo-1416397202228-6b2eb5b3bb26?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NzgyNDJ8MHwxfHNlYXJjaHwyfHxhdHRyYWN0aW9ufGVufDB8fHx8MTczMjM4NDk2Mnww&ixlib=rb-4.0.3&q=80&w=400",
@@ -11191,7 +11191,7 @@
     },
     {
         "name": "Crown Water Sport Bulungan",
-        "genre": "Scenic",
+        "genre": "Adventure",
         "images": [
             "https://images.unsplash.com/photo-1535186830872-2c5fe5cc62fb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NzgyNDJ8MHwxfHNlYXJjaHwxfHxhdHRyYWN0aW9ufGVufDB8fHx8MTczMjM4NDk2Mnww&ixlib=rb-4.0.3&q=80&w=400",
             "https://images.unsplash.com/photo-1416397202228-6b2eb5b3bb26?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NzgyNDJ8MHwxfHNlYXJjaHwyfHxhdHRyYWN0aW9ufGVufDB8fHx8MTczMjM4NDk2Mnww&ixlib=rb-4.0.3&q=80&w=400",
@@ -11290,7 +11290,7 @@
     },
     {
         "name": "Darta gallery",
-        "genre": "Scenic",
+        "genre": "Art",
         "images": [
             "https://images.unsplash.com/photo-1535186830872-2c5fe5cc62fb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NzgyNDJ8MHwxfHNlYXJjaHwxfHxhdHRyYWN0aW9ufGVufDB8fHx8MTczMjM4NDk2Mnww&ixlib=rb-4.0.3&q=80&w=400",
             "https://images.unsplash.com/photo-1416397202228-6b2eb5b3bb26?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NzgyNDJ8MHwxfHNlYXJjaHwyfHxhdHRyYWN0aW9ufGVufDB8fHx8MTczMjM4NDk2Mnww&ixlib=rb-4.0.3&q=80&w=400",
@@ -11323,7 +11323,7 @@
     },
     {
         "name": "Anita garden",
-        "genre": "Scenic",
+        "genre": "Park",
         "images": [
             "https://images.unsplash.com/photo-1535186830872-2c5fe5cc62fb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NzgyNDJ8MHwxfHNlYXJjaHwxfHxhdHRyYWN0aW9ufGVufDB8fHx8MTczMjM4NDk2Mnww&ixlib=rb-4.0.3&q=80&w=400",
             "https://images.unsplash.com/photo-1416397202228-6b2eb5b3bb26?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NzgyNDJ8MHwxfHNlYXJjaHwyfHxhdHRyYWN0aW9ufGVufDB8fHx8MTczMjM4NDk2Mnww&ixlib=rb-4.0.3&q=80&w=400",
